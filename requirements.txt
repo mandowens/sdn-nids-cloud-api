@@ -1,11 +1,3 @@
-fastapi
-uvicorn
-pydantic
-numpy
+streamlit
 pandas
-joblib
-scipy
-psycopg2-binary
-tensorflow
-xgboost
-scikit-learn
+requests
